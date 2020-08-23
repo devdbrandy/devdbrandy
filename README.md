@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=dbrandy.dev&style=for-the-badge&url=https%3A//dbrandy.dev)](https://dbrandy.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/devdbrandy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevdbrandy&screen_name=devdbrandy)
 
-## I'm an aspiring member of the Avengers, developer, solution provider
+## I'm an aspiring member of The Avengers 😋, Web Enthusiast, Developer, and Solution provider
 
-- 🔭 I’m currently working on [Tr1pp](https://tr1pp.com)!
+- 🔭 I’m currently working on [Tr1pp](https://tr1pp.com)
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with Open Source projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -41,12 +41,16 @@
 <br>
 <br>
 
+<a href="https://github.com/devdbrandy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdbrandy&theme=light&hide_langs_below=1" />
+</a>
+
 ---
 
 <details>
   <summary> ⚡️ Github Stats</summary>
 
-  <img align="left" alt="Dbrandy's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=devdbrandy&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devdbrandy&show_icons=true&theme=light&line_height=27&hide_border=true" alt="Dbrandy's Github stats"/>
 
 </details>
 
