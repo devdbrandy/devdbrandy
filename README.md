@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=dbrandy.dev&style=for-the-badge&url=https%3A//dbrandy.dev)](https://dbrandy.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/devdbrandy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevdbrandy&screen_name=devdbrandy)
 
-## I'm an aspiring member of The Avengers 😋, Web Enthusiast, Developer, and Solution provider
+## I'm an aspiring member of The Avengers 😋, Web Enthusiast, and Developer
 
 - 🔭 I’m currently working on [Tr1pp](https://tr1pp.com)
 - 🌱 I’m currently learning Flutter
