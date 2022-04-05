@@ -5,10 +5,10 @@
 
 ## I'm an aspiring member of The Avengers 😋, Web Enthusiast, and Developer
 
-- 🔭 I’m currently working on [Tr1pp](https://tr1pp.com)
+- 🔭 I’m currently working on [SHYFT Power Solutions](https://shyftpower.com)
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with Open Source projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His
 
 ### Connect with me
@@ -16,6 +16,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Codementor" width="22px" src="https://user-images.githubusercontent.com/30989030/161821926-96c0fedd-4841-4821-94b7-dec4b04579fb.png" />][codementor]
 
 <br>
 
@@ -26,6 +27,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
@@ -57,3 +59,4 @@
 [website]: https://dbrandy.dev
 [twitter]: https://twitter.com/devdbrandy
 [linkedin]: https://linkedin.com/in/harryisidore
+[codementor]: https://www.codementor.io/@devdbrandy
