@@ -56,7 +56,8 @@
 
 </details>
 
-[website]: https://dbrandy.dev
+[website]: https://dbrandy.netlify.com
+[website-main]: https://dbrandy.dev
 [twitter]: https://twitter.com/devdbrandy
 [linkedin]: https://linkedin.com/in/harryisidore
 [codementor]: https://www.codementor.io/@devdbrandy
