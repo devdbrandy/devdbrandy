@@ -6,7 +6,7 @@
 
 ## I'm an aspiring member of The Avengers 😋, Web Enthusiast, and Developer
 
-- 🔭 I’m currently working on [SHYFT Power Solutions](https://shyftpower.com)
+- 🔭 I’m currently working on [Limehome GmbH](https://limehome.com)
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with Open Source projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
